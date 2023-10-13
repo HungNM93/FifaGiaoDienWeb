@@ -1,0 +1,58 @@
+.banner{
+    background-image: url(https://images-ext-1.discordapp.net/external/mCSTeSj0DsGXPVE7zhMkCFTRNN0v6KxO9dhmzMpWcXs/%3Fio%3Dtransform%3Afill%2Cheight%3A1024%2Cwidth%3A1920%26quality%3D75/https/digitalhub.fifa.com/transform/2ad3545c-140f-436c-afe8-dd066f63719c/Enzo-Fernandez-Argentina?width=1163&height=621);
+
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    padding-left: 30px;
+ 
+}   
+
+.banner-group {
+    padding-top: 500px;
+    color: #fff;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 1);
+}
+
+.banner-group h3 {
+    margin: 10px 0;
+    font-size: 25px;
+}
+
+.banner-desc{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+
+
+
+.tournaments{
+    text-align: center;
+    padding: 50px 30px;
+    background-color: #045694;
+}
+
+.tournaments-element{
+    width: 20%;
+    display: inline-block;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.tournaments-element:hover, .tournaments-element:hover{
+
+}
+
+.tournaments-element:not(:last-child){
+    margin-right: 40px;
+}
+
+
+.tournaments-element img{
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
